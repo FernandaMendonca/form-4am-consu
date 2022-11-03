@@ -53,7 +53,6 @@ const ContainerInput = styled.div`
   display: flex;
   flex-direction: column;
   margin: 10px 0;
-  width: 60%;
 `;
 
 const Label = styled.label`
